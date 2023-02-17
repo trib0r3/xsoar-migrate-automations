@@ -44,7 +44,7 @@ demisto-sdk download -a -o ./Packs/Migration
 4. Verify if custom content is fixed correctly
 
 ## Migrate content
-> **⚠ WARNING** Script will affect your environment. I strongly recommend to not execute it directly on prod server - follow the [Testing on separate instance](#testing-on-separate instance) to learn more.
+> **⚠ WARNING** Script will affect your environment. I strongly recommend to not execute it directly on prod server - follow the [Testing on separate instance](#testing-on-separate-instance) to learn more.
 
 ### Step 1. Configure suffixes
 After this step:
