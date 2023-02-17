@@ -1,0 +1,6 @@
+Packs/Migration/**
+Packs/Migration-Backup/**
+Packs/Migration-Validate/**
+.fixids.cache.json
+changelog.json
+not-fixed.json
